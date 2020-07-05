@@ -1,0 +1,1 @@
+this is a document file.. and it should appear and a new file .. as staged.. or added or something of that sort.
